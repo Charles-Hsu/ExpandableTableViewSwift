@@ -13,6 +13,7 @@
 		C27BF9C81BD464E9006E9311 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C27BF9C71BD464E9006E9311 /* Assets.xcassets */; };
 		C27BF9CB1BD464E9006E9311 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C27BF9C91BD464E9006E9311 /* LaunchScreen.storyboard */; };
 		C27BF9D31BD46BDA006E9311 /* point.png in Resources */ = {isa = PBXBuildFile; fileRef = C27BF9D21BD46BDA006E9311 /* point.png */; };
+		C27BF9D51BD4A62C006E9311 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C27BF9D41BD4A62C006E9311 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C27BF9CA1BD464E9006E9311 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C27BF9CC1BD464E9006E9311 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C27BF9D21BD46BDA006E9311 /* point.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = point.png; sourceTree = "<group>"; };
+		C27BF9D41BD4A62C006E9311 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		C27BF9B41BD464E9006E9311 = {
 			isa = PBXGroup;
 			children = (
+				C27BF9D41BD4A62C006E9311 /* README.md */,
 				C27BF9BF1BD464E9006E9311 /* ExpandableTableViewSwift */,
 				C27BF9BE1BD464E9006E9311 /* Products */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C27BF9D51BD4A62C006E9311 /* README.md in Sources */,
 				C27BF9C31BD464E9006E9311 /* ViewController.swift in Sources */,
 				C27BF9C11BD464E9006E9311 /* AppDelegate.swift in Sources */,
 			);
